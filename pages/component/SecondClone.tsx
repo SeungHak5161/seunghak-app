@@ -93,7 +93,7 @@ export default function SecondClone() {
               </p>
             </div>
             <div>
-              <div className="w-[450px] h-[600px] bg-gradient-to-tr from-[#15c064] to-[#00d1ff] rounded-3xl">
+              <div className="w-[450px] h-[600px] bg-gradient-to-tr from-[#15c064] to-[#00d1ff] rounded-3xl flex justify-center">
                 image area
               </div>
             </div>
